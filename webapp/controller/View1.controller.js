@@ -11,6 +11,7 @@ sap.ui.define([
             onInit: function () {
 
                 let a = 10;
+                let b = 12;
             }
         });
     });
