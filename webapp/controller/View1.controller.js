@@ -10,6 +10,7 @@ sap.ui.define([
         return Controller.extend("project.controller.View1", {
             onInit: function () {
 
+                let a = 10;
             }
         });
     });
